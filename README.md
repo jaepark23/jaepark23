@@ -4,10 +4,11 @@ I'm Jae Park, a passionate programmer who loves to build projects. I am currentl
 
 # Skills 💻
 - Python
+- Javascript
 - Data Analysis/Science (Pandas, Matplotlib, Jupyter)
 - ML/AI (Tensorflow, Keras, LLMs, Neural Networks)
 - Backend development (Django, Flask, FastAPI)
-- Frontend development (JS, React, MaterialUI)
+- Frontend development (React, MaterialUI)
 
 # Interests 🎨
 - Basketball
