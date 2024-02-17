@@ -12,5 +12,6 @@ I'm Jae Park, a passionate programmer who loves to build projects. I am currentl
 # Interests 🎨
 - Basketball
 - Dogs
+- Fishing
 
 Reach out at parkjae433@gmail.com
