@@ -1,3 +1,7 @@
+# Hi 👋
+
+I'm Jae Park, an engineer who loves to build projects. I hope to leverage the power of technology to make an impact in the world. 
+
 # Skills 💻
 - Python
 - Javascript
