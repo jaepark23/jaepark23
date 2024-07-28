@@ -1,8 +1,8 @@
-# Hi
+# Hi 👋
 
 I'm Jae Park, an engineer and computer science student. I hope to leverage the power of technology to make an impact in the world. 
 
-# Skills
+# Skills 💻
 - Python
 - Javascript
 - Data Analysis/Science (Pandas, Matplotlib, Jupyter)
